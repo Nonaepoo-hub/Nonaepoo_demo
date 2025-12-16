@@ -1,2 +1,3 @@
 # Nonaepoo_demo
-This is first repository
+This is my first git repository
+Author:- Sumit Singh Bhadowriya
